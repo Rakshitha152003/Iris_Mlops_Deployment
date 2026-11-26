@@ -705,6 +705,18 @@ B.Tech Graduate | Data Science & Machine Learning & Gen AI Enthusiast
 
 [https://github.com/Rakshitha152003/Iris_Mlops_Deployment](https://github.com/Rakshitha152003/Iris_Mlops_Deployment)
 
+
+☁️ Streamlit Cloud Deployment
+
+The Iris Classification MLOps application is deployed using Streamlit Community Cloud, providing an interactive web interface for real-time predictions.
+
+🚀 Live Application
+
+Streamlit App:
+https://irisdeployment-44bqbqi4akjzg3lvtkspr5.streamlit.app/
+
+
+
 ---
 
 ## ⭐ Acknowledgement
